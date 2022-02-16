@@ -1,0 +1,9 @@
+name: basic_validation
+title: InSpec Profile
+maintainer: webhelp
+copyright: webhelp
+license: Apache-2.0
+summary: A Simple InSpec Compliance Profile
+version: 0.1.0
+supports:
+ - platform-family: windows
